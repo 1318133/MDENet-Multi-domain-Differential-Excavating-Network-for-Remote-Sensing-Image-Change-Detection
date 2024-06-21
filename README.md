@@ -2,6 +2,7 @@
 MDENet: Multi-domain Differential Excavating Network for Remote Sensing Image Change Detection
 
 The code will be released.
+[net2.pdf](https://github.com/user-attachments/files/15922151/net2.pdf)
 
 # Ref
 @ARTICLE{10556577,
